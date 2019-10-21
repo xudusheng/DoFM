@@ -1,0 +1,141 @@
+[{
+    "type": "央广电台",
+    "list": [
+        {
+            "title": "中国之声",
+            "url": "http://rtmpcnr001.cnr.cn/live/zgzs/playlist.m3u8"
+        },
+        {
+            "title": "经济之声",
+            "url": "http://rtmpcnr002.cnr.cn/live/jjzs/playlist.m3u8"
+        },
+        {
+            "title": "音乐之声",
+            "url": "http://rtmpcnr003.cnr.cn/live/yyzs/playlist.m3u8"
+        },
+        {
+            "title": "经典音乐广播",
+            "url": "http://rtmpcnr004.cnr.cn/live/dszs/playlist.m3u8"
+        },
+        {
+            "title": "中国交通广播（高速公路）",
+            "url": "http://rtmpcnr016.cnr.cn/live/gsgljtgb/playlist.m3u8"
+        },
+        {
+            "title": "香港之声",
+            "url": "http://rtmpcnr008.cnr.cn/live/xgzs/playlist.m3u8"
+        },
+        {
+            "title": "文艺之声",
+            "url": "http://rtmpcnr010.cnr.cn/live/wyzs/playlist.m3u8"
+        },
+        {
+            "title": "华夏之声",
+            "url": "http://rtmpcnr007.cnr.cn/live/hxzs/playlist.m3u8"
+        },
+        {
+            "title": "中国乡村之声",
+            "url": "http://rtmpcnr017.cnr.cn/live/xczs/playlist.m3u8"
+        },
+        {
+            "title": "中华之声",
+            "url": "http://rtmpcnr005.cnr.cn/live/zhzs/playlist.m3u8"
+        },
+        {
+            "title": "老年之声",
+            "url": "http://rtmpcnr011.cnr.cn/live/lnzs/playlist.m3u8"
+        },
+        {
+            "title": "娱乐之声广播",
+            "url": "http://rtmpcnr014.cnr.cn/live/ylgb/playlist.m3u8"
+        },
+        {
+            "title": "神州之声",
+            "url": "http://rtmpcnr006.cnr.cn/live/szzs/playlist.m3u8"
+        },
+        {
+            "title": "中央台维语广播",
+            "url": "http://rtmpcnr013.cnr.cn/live/wygb/playlist.m3u8"
+        },
+        {
+            "title": "中央台哈语广播",
+            "url": "http://rtmpcnr025.cnr.cn/live/hygb/playlist.m3u80"
+        },
+        {
+            "title": "民族之声",
+            "url": "https://tingfm.com/radio/10,420"
+        },
+        {
+            "title": "大湾区之声",
+            "url": "http://rtmpcnr009.cnr.cn/live/mzzs/playlist.m3u8"
+        },
+        {
+            "title": "中央台藏语广播",
+            "url": "http://rtmpcnr012.cnr.cn/live/zygb/playlist.m3u8"
+        }
+    ]
+},{
+    "type": "央视",
+    "list": [
+    {
+        "title": "CCTV1综合频道",
+        "url": "http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv1_2_hd.m3u8"
+    },
+    {
+        "title": "CCTV2经济频道",
+        "url": "http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv2_2/index.m3u8"
+    },
+        {
+            "title": "CCTV3综艺频道",
+            "url": "http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv3_2/index.m3u89"
+        },
+        {
+            "title": "CCTV4中文国际频道",
+            "url": "http://cctvcnch5ca.v.wscdns.com/live/cctv4_2/index.m3u8"
+        },
+        {
+            "title": "CCTV5体育频道",
+            "url": "http://cctv5txyc.liveplay.myqcloud.com/live/cctv5_1_hd.m3u8"
+        },
+        {
+            "title": "CCTV6电影频道",
+            "url": "http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv6_2_hd.m3u8"
+        },
+        {
+            "title": "CCTV7国防军事频道",
+            "url": "http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv7_2/index.m3u8"
+        },
+        {
+            "title": "CCTV8电视剧频道",
+            "url": "http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv8_2/index.m3u8"
+        },
+        {
+            "title": "CCTV9记录频道",
+            "url": "http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvjilu_2/index.m3u8m"
+        },
+        {
+            "title": "CCTV10科教频道",
+            "url": "http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv10_2/index.m3u8"
+        },
+        {
+            "title": "CCTV11戏曲频道",
+            "url": "http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv11_2/index.m3u8"
+        },
+        {
+            "title": "CCTV12社会与法频道",
+            "url": "http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv12_2/index.m3u8"
+        },
+        {
+            "title": "CCTV13新闻频道",
+            "url": "http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv13_2/index.m3u8"
+        },
+        {
+            "title": "CCTV14少儿频道",
+            "url": "http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8"
+        },
+        {
+            "title": "CCTV15音乐频道",
+            "url": "http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8"
+        }
+    ]
+}]
